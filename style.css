@@ -1,0 +1,100 @@
+body{
+    background-color: pink;
+    
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333333;
+}
+li{
+    float: left;
+}
+ li a{
+        display: block;
+        color: red;
+        text-align: center;
+        padding: 20px;
+        text-decoration: indigo;
+        top: 0;
+ }
+li a:hover{
+    background-color: powderblue;
+}
+ 
+ .heading{
+     font-size: 60px;
+     text-align: left;
+     color: red;
+     text-shadow: 2px 2px 3px white;
+     margin-left: 6em;
+     word-spacing: 10px;
+     margin-top: 1em;
+ }
+
+ img{
+     border: 5px solid black;
+     border-radius: 100%;
+ }
+ table,tr,td{
+     margin: -8em 400px 1px 700px;
+ }
+ 
+#intro{
+    font-size: 20px;
+    color: black;
+    font-family: normal;  
+    padding-left: 15em;
+    padding-right: 15em;  
+}
+
+
+.head{
+    color: red;
+    text-shadow: 3px 3px 5px white;
+    background-color: white;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    text-align: center;
+    font-size: 40px;
+}
+#portfolio{
+    font-size: 10px;
+        
+}
+.like img{
+    border: none;
+    border-radius: unset;
+    margin-left: 10em;
+
+}
+
+
+
+
+
+form{
+    text-align: center;
+    border: 15px double white;
+    background-color: white;
+    margin-top: 5em;
+    margin-left: 40em;
+    margin-right: 32em;
+    color: black;
+    position: absolute;
+    
+}
+input{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+
+}
+input,textarea{
+    background-color: pink;
+}
+
+ 
